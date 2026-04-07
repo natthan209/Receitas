@@ -1,0 +1,18 @@
+/* body{
+    background-color: blueviolet;
+} */
+
+hr {
+    border: 2px solid rgb(186, 101, 243);
+}
+
+img {
+    width: 30%;
+    /*largura*/
+    height: auto;
+    /*altura*/
+    border-radius: 5px;
+    /*arredondar bordas*/
+    box-shadow: 3px 3px 5px #292929;
+    /*valor1 e valor2 são projeções da sombra, valor3 é espalhamento da sombra, cor da sombra*/
+}
