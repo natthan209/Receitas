@@ -1,13 +1,13 @@
-/* body{
-    background-color: blueviolet;
-} */
+body {
+    background-color: rgba(224, 128, 2, 0.856);
+}
 
 hr {
-    border: 2px solid rgb(186, 101, 243);
+    border: 2px solid rgb(18, 161, 149);
 }
 
 img {
-    width: 30%;
+    width: 40%;
     /*largura*/
     height: auto;
     /*altura*/
